@@ -1,0 +1,14 @@
+# Example of queries used for testing
+
+Query 1
+{
+    hello(name: "Hamma")
+}
+
+Output 1
+
+{
+  "data": {
+    "hello": "Hello, Hamma!"
+  }
+}
