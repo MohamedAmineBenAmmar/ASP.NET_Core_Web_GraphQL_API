@@ -1,0 +1,12 @@
+- GraphQL allow us to expose our business layer in a richer way
+1- Do the buisness modeling
+2- Create the GraphQL schema
+3- Access the data (accessing the data I need for my application)
+
+- GraphQL Transport
+    - Transport agnostic
+    - HTTP POST for Queries and Mutations
+    - HTTP GET for persisted Queries
+    - WebSockets for Subscription
+    - Server Side Events for Subscription
+    - gRPC in other instances
